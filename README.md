@@ -1,4 +1,4 @@
-
+Watch video guide by Askar Aituov here: # https://youtu.be/MrhhIL49Er0
 This repository is for [Parsing Invoices using Gemini 1.5 API with Google Apps Script](https://medium.com/google-cloud/parsing-invoices-using-gemini-1-5-api-with-google-apps-script-1f32af1678f2).
 
 # Parsing Invoices using Gemini 1.5 API with Google Apps Script
